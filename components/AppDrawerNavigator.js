@@ -9,7 +9,7 @@ export const AppDrawerNavigator =createDrawerNavigator({
    Home:{
        screen :AppTabNavigator
    },
-  Setting:{
+  Settings:{
       screen: SettingScreen
   }
 },
