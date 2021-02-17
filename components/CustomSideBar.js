@@ -33,7 +33,8 @@ var styles= StyleSheet.create({
         height:30,
         width:'100%',
         justifyContent:'center',
-        padding:10
+        padding:10,
+        marginTop:400,
       },
       logOutText:{
         fontSize: 30,
